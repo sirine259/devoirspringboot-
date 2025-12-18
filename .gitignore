@@ -1,8 +1,11 @@
-HELP.md
+### Maven ###
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+
+### Spring / Help ###
+HELP.md
 
 ### STS ###
 .apt_generated
@@ -31,6 +34,7 @@ build/
 
 ### VS Code ###
 .vscode/
-target/
-.idea/
+
+### Exam / PDF ###
 Exam2022-Formation.pdf
+*.pdf
