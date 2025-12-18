@@ -1,40 +1,12 @@
 ### Maven ###
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
-### Spring / Help ###
-HELP.md
-
-### STS ###
-.apt_generated
+### IDE ###
+.idea/
+.vscode/
 .classpath
-.factorypath
 .project
 .settings
-.springBeans
-.sts4-cache
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
-
-### Exam / PDF ###
+### PDF examen uniquement ###
 Exam2022-Formation.pdf
-*.pdf
